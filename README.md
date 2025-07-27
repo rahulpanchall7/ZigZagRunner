@@ -40,7 +40,7 @@
 
   <h2>👨‍💻 Author</h2>
   <p><strong>Your Name</strong><br/>
-     GitHub: <a href="https://github.com/rahulpanchall7" target="_blank" rel="noopener noreferrer">yourusername</a></p>
+     GitHub: <a href="https://github.com/rahulpanchall7" target="_blank" rel="noopener noreferrer">rahulpanchall7</a></p>
 
 </body>
 </html>
